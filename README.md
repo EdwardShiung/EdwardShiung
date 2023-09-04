@@ -29,7 +29,7 @@ As a Full-End Developer, I am deeply passionate about designing and developing o
 
 ![Edward Shiung's GitHub Status](https://github-readme-stats.vercel.app/api?username=EdwardShiung&show_icons=true&theme=tokyonight)
 <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardShiung&layout=compact">
-
+<br />
 
 ---
 <summary><h3>👨‍💻 Edward's Coding Journey </h3></summary>
