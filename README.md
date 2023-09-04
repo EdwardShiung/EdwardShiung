@@ -2,7 +2,7 @@
 
 
 
-I am currently a MS Computer Science student at Virginia Tech, but prior to that, I worked as a Full-End Developer for Grant Thornton and Ernst & Young in Shanghai, Hong Kong, and Taipei. My main responsibility was to design web applications and financial operating systems, including the EY-Virtual platform. Additionally, I have expertise in utilizing Predictive Data Analytics and Machine Learning to evaluate internal controls and net assets.
+I am currently an MS Computer Science student at Virginia Tech, but prior to that, I worked as a Full-End Developer for Grant Thornton and Ernst & Young in Shanghai, Hong Kong, and Taipei. My main responsibility was to design web applications and financial operating systems, including the EY-Virtual platform. Additionally, I have expertise in utilizing Predictive Data Analytics and Machine Learning to evaluate internal controls and net assets.
 
 ---
 
