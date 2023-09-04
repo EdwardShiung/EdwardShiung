@@ -1,8 +1,8 @@
 # 🏄‍♂️ Edward Shiung
 
+**`(Full-End Developer/Machine Learning Researcher/Data Analyst)`**
 
-
-I am currently an MS Computer Science student at Virginia Tech, but prior to that, I worked as a Full-End Developer for Grant Thornton and Ernst & Young in Shanghai, Hong Kong, and Taipei. My main responsibility was to design web applications and financial operating systems, including the EY-Virtual platform. Additionally, I have expertise in utilizing Predictive Data Analytics and Machine Learning to evaluate internal controls and net assets.
+As a Full-End Developer, I am deeply passionate about designing and developing operating systems. If you would like to learn more about my experience and skillset, I encourage you to subscribe or reach out to me directly. I am committed to responding promptly to any inquiries you may have.
 
 ---
 
@@ -21,9 +21,12 @@ I am currently an MS Computer Science student at Virginia Tech, but prior to tha
 
 ---
 
-### 📊 Stats
+### 📊 Status
 
-![Edward Shiung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwardShiung&show_icons=true&theme=gruvbox)
+![Edward Shiung's GitHub Status](https://github-readme-stats.vercel.app/api?username=EdwardShiung&show_icons=true&theme=tokyonight)
 
+#
+<summary><h3>👨‍💻 Edward's Coding Journey </h3></summary>
+I am currently an MS Computer Science student at Virginia Tech, but prior to that, I worked as a Full-End Developer for Grant Thornton and Ernst & Young in Shanghai, Hong Kong, and Taipei. My main responsibility was to design web applications and financial operating systems, including the EY-Virtual platform. Additionally, I have expertise in utilizing Predictive Data Analytics and Machine Learning to evaluate internal controls and net assets.
 
 
