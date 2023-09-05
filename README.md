@@ -1,4 +1,4 @@
-# 🏄‍♂️ Edward Shiung
+# 🏃🏿‍♂️ Edward Shiung
 
 **`(Full-End Developer/Machine Learning Researcher/Data Analyst)`**
 
@@ -6,7 +6,7 @@ As a Full-End Developer, I am deeply passionate about designing and developing o
 
 ---
 
-### 🧰 Languages and Tools
+### ⚙️ Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -28,7 +28,7 @@ As a Full-End Developer, I am deeply passionate about designing and developing o
 
 ---
 
-### 📊 Status
+### 📈 Status
 
 ![Edward Shiung's GitHub Status](https://github-readme-stats.vercel.app/api?username=EdwardShiung&show_icons=true&theme=tokyonight)
 <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardShiung&layout=compact">
