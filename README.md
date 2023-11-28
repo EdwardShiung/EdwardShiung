@@ -31,8 +31,8 @@ As a Full-End Developer, I am deeply passionate about designing and developing o
 ### 📈 Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwardShiung&show_icons=true&theme=tokyonight" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardShiung&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdwardShiung&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardShiung&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 <br />
