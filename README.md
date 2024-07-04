@@ -1,3 +1,4 @@
+![I'm Edward](https://github.com/EdwardShiung/EdwardShiung/blob/main/header.gif)
 # 🏃🏿‍♂️ Edward Shiung
 
 **`(Full-End Developer/Machine Learning Researcher/Data Analyst)`**
